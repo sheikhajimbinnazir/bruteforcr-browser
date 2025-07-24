@@ -103,9 +103,9 @@ This tool is for educational and authorized ethical hacking only.
 📥 Install with:
 
 ```bash
-git clone https://github.com/sheikhajimbinnazir/bruteforcr-browser.git
+git clone https://github.com/sheikhajimbinnazir/bruter-browser.git
 pip install PyQt5 PyQtWebEngine psutil requests
-cd bruteforcr-browser
+cd bruter-browser
 cd __pycache__
 python3 browser2.0.py
 
