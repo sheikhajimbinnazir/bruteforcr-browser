@@ -68,23 +68,6 @@ It includes essential tools for ethical hacking:
 - Saved in: `requests_log.txt`  
   (Includes full URL and domain)
 
----
-
-## 🔧 Requirements
-
-- Python 3.6+
-- PyQt5
-- PyQtWebEngine
-- psutil
-- requests
-
-📥 Install with:
-
-```bash
-pip install PyQt5 PyQtWebEngine psutil requests
-cd bruteforcr-browser
-cd __pycache__
-python3 browser2.0.py
 ⚙️ How the Attack Works
 Input Detection
 → Scans for valid <input name="..."> fields
@@ -105,3 +88,22 @@ This tool is for educational and authorized ethical hacking only.
 🚫 Unauthorized use is illegal and punishable by law.
 
 #pentestbrowser #ethicalhacking #python #pyqt5 #fuzzing #bruteforce #infosec #websecurity #hackerstyle #cybersecurity #opensource #bugbounty #repeater #attacktools #webfuzzing #sheikhajimbinnazir #ajim #akash #islamiccybernetwork #cyber #islamic
+  
+
+---
+
+## 🔧 Requirements
+
+- Python 3.6+
+- PyQt5
+- PyQtWebEngine
+- psutil
+- requests
+
+📥 Install with:
+
+```bash
+pip install PyQt5 PyQtWebEngine psutil requests
+cd bruteforcr-browser
+cd __pycache__
+python3 browser2.0.py
