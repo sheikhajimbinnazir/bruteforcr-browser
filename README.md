@@ -87,8 +87,6 @@ This tool is for educational and authorized ethical hacking only.
 ⚠️ Do NOT use on any website or system without explicit permission.
 🚫 Unauthorized use is illegal and punishable by law.
 
-#pentestbrowser #ethicalhacking #python #pyqt5 #fuzzing #bruteforce #infosec #websecurity #hackerstyle #cybersecurity #opensource #bugbounty #repeater #attacktools #webfuzzing #sheikhajimbinnazir #ajim #akash #islamiccybernetwork #cyber #islamic
-  
 
 ---
 
@@ -103,7 +101,40 @@ This tool is for educational and authorized ethical hacking only.
 📥 Install with:
 
 ```bash
+git clone https://github.com/sheikhajimbinnazir/bruteforcr-browser.git
 pip install PyQt5 PyQtWebEngine psutil requests
 cd bruteforcr-browser
 cd __pycache__
 python3 browser2.0.py
+
+
+,
+
+## 📌 Hashtags
+
+#PentestBrowser  
+#EthicalHacking  
+#SheikhAjimBinNazir  
+#IslamicCyberNetwork  
+#CyberSecurity  
+#PythonBrowser  
+#HackerTool  
+#PyQt5Browser  
+#OpenSourcePentest  
+#BruteForceTool  
+#WebFuzzer  
+#RepeaterTool  
+#SecurityResearch  
+#CyberUmmah  
+#InfoSecTools  
+#IslamicHackers  
+#IslamicEthicalHackers  
+#SheikhAjimTools  
+#FuzzingFramework  
+#BrowserForHackers  
+#WebAppSecurity  
+#BugBountyTools  
+#IslamicOpenSource  
+#DigitalDawahSecurity  
+#HackTheHalalWay  
+
