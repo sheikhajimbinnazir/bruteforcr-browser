@@ -121,3 +121,11 @@ Stay with us
 `IslamicEthicalHackers` &nbsp; `SheikhAjimTools` &nbsp; `BrowserForHackers`  
 `BugBountyTools` &nbsp; `DigitalDawahSecurity` &nbsp; `HackTheHalalWay`
 
+## 🔖 Hashtags
+
+#PentestBrowser #EthicalHacking #SheikhAjimBinNazir #IslamicCyberNetwork  
+#CyberSecurity #PythonBrowser #HackerTool #PyQt5Browser  
+#OpenSourcePentest #BruteForceTool #WebFuzzer #RepeaterTool  
+#SecurityResearch #CyberUmmah #InfoSecTools #IslamicHackers  
+#IslamicEthicalHackers #SheikhAjimTools #BrowserForHackers  
+#BugBountyTools #DigitalDawahSecurity #HackTheHalalWay
