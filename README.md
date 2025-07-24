@@ -75,3 +75,10 @@ Every attempted payload is shown in the attack log panel.
 This tool is provided for educational and ethical penetration testing purposes only.
 ⚠️ Do NOT use this tool on websites or systems without proper authorization. Unauthorized use is illegal.
 
+
+
+#browser
+#
+#
+#
+#
