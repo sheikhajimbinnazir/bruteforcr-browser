@@ -1,5 +1,5 @@
 As-salamu alaykum 
-Now I am telling you about this browser
+  Now I am telling you about this browser
 🛡️ Pentest Browser
 Pentest Browser is a hacker-style, GUI-based web browser built using Python and PyQt5. It's designed for penetration testing, input fuzzing, and form brute-force attacks on websites. It includes built-in tools like a repeater, input field detector, attack logger, request interceptor, and a system resource monitor.
 
