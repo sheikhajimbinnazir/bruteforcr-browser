@@ -90,26 +90,6 @@ This tool is for educational and authorized ethical hacking only.
 
 ---
 
-## 🔧 Requirements
-
-- Python 3.6+
-- PyQt5
-- PyQtWebEngine
-- psutil
-- requests
-
-📥 Install with:
-
-```bash
-git clone https://github.com/sheikhajimbinnazir/bruteforcr-browser.git
-pip install PyQt5 PyQtWebEngine psutil requests
-cd bruteforcr-browser
-cd __pycache__
-python3 browser2.0.py
-
-
-,
-
 ## 📌 Hashtags
 
 #PentestBrowser  
@@ -138,3 +118,26 @@ python3 browser2.0.py
 #DigitalDawahSecurity  
 #HackTheHalalWay  
 
+
+## 🔧 Requirements
+
+- Python 3.6+
+- PyQt5
+- PyQtWebEngine
+- psutil
+- requests
+
+
+📥 Install with:
+
+```bash
+git clone https://github.com/sheikhajimbinnazir/bruteforcr-browser.git
+pip install PyQt5 PyQtWebEngine psutil requests
+cd bruteforcr-browser
+cd __pycache__
+python3 browser2.0.py
+
+```
+
+Stay with us
+ 
