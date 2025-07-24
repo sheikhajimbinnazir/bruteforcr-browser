@@ -90,34 +90,6 @@ This tool is for educational and authorized ethical hacking only.
 
 ---
 
-## 📌 Hashtags
-
-#PentestBrowser  
-#EthicalHacking  
-#SheikhAjimBinNazir  
-#IslamicCyberNetwork  
-#CyberSecurity  
-#PythonBrowser  
-#HackerTool  
-#PyQt5Browser  
-#OpenSourcePentest  
-#BruteForceTool  
-#WebFuzzer  
-#RepeaterTool  
-#SecurityResearch  
-#CyberUmmah  
-#InfoSecTools  
-#IslamicHackers  
-#IslamicEthicalHackers  
-#SheikhAjimTools  
-#FuzzingFramework  
-#BrowserForHackers  
-#WebAppSecurity  
-#BugBountyTools  
-#IslamicOpenSource  
-#DigitalDawahSecurity  
-#HackTheHalalWay  
-
 
 ## 🔧 Requirements
 
@@ -140,4 +112,12 @@ python3 browser2.0.py
 ```
 
 Stay with us
- 
+ ## 🔖 Tags & Topics
+
+`PentestBrowser` &nbsp; `EthicalHacking` &nbsp; `SheikhAjimBinNazir` &nbsp; `IslamicCyberNetwork`  
+`CyberSecurity` &nbsp; `PythonBrowser` &nbsp; `HackerTool` &nbsp; `PyQt5Browser`  
+`OpenSourcePentest` &nbsp; `BruteForceTool` &nbsp; `WebFuzzer` &nbsp; `RepeaterTool`  
+`SecurityResearch` &nbsp; `CyberUmmah` &nbsp; `InfoSecTools` &nbsp; `IslamicHackers`  
+`IslamicEthicalHackers` &nbsp; `SheikhAjimTools` &nbsp; `BrowserForHackers`  
+`BugBountyTools` &nbsp; `DigitalDawahSecurity` &nbsp; `HackTheHalalWay`
+
