@@ -48,9 +48,11 @@ Install dependencies using:
 pip install PyQt5 PyQtWebEngine psutil requests
 🚀 Running the Application
 
-cd bruteforcr-browser
-cd __pycache__
+cd bruteforcr-browser,
+cd __pycache__,
 python3 browser2.0.py
+
+
 📂 Project Structure
 
 pentest_browser.pyc      # Main PyQt5 GUI browser
