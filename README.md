@@ -1,84 +1,107 @@
-As-salamu alaykum 
-  Now I am telling you about this browser
-🛡️ Pentest Browser
-Pentest Browser is a hacker-style, GUI-based web browser built using Python and PyQt5. It's designed for penetration testing, input fuzzing, and form brute-force attacks on websites. It includes built-in tools like a repeater, input field detector, attack logger, request interceptor, and a system resource monitor.
+# 🕋 As-salamu alaykum 🤲
 
-🧩 Features
-🌐 Browser Features
-Tabbed web browsing (based on QWebEngineView)
+Welcome! Now I am introducing you to a powerful pentesting browser.
 
-URL navigation bar with quick buttons:
+---
 
-🔙 Back, 🔜 Forward, 🏠 Home, ➕ New Tab
+# 🛡️ Pentest Browser
 
-Predefined test target: http://testasp.vulnweb.com
+`Pentest Browser` is a **hacker-style**, **GUI-based web browser** built with **Python** and **PyQt5**.
 
-🧪 Pentesting Tools
-🕵️‍♂️ Detect Inputs: Auto-detects all <input name=""> fields from the current web page
+Designed for:
 
-🚀 Start Attack: Launches input-based attacks (fuzzing or brute-force) using wordlists
+- Penetration Testing 🔐  
+- Input Fuzzing ⚔️  
+- Form Brute-force Attacks 🔓  
 
-⛔ Stop Attack: Stops an active attack session
+It includes essential tools for ethical hacking:
+- ✅ Repeater
+- ✅ Input Field Detector
+- ✅ Attack Logger
+- ✅ Request Interceptor
+- ✅ System Resource Monitor
 
-📜 Attack Log: Displays all attempted payloads and attack results
+---
 
-Repeater: Send custom GET or POST HTTP requests with headers and body
+## 🧩 Features
 
-Delay Control: Adjust time interval between payload submissions (1–10 seconds)
+### 🌐 Browser Interface
+- Tabbed Web Browsing using `QWebEngineView`
+- Smart URL Navigation Bar
+- Quick Buttons:
+  - 🔙 Back | 🔜 Forward | 🏠 Home | ➕ New Tab
+- Preloaded target site: [`http://testasp.vulnweb.com`](http://testasp.vulnweb.com)
 
-🖥️ System Monitor
-Displays CPU %, memory usage, and GPU temperature (if supported)
+---
 
-📦 Request Interceptor
-Logs every outgoing HTTP request in requests_log.txt (includes domain and URL)
+### 🧪 Pentesting Tools
+- 🕵️‍♂️ **Detect Inputs**  
+  Auto-detects all `<input name="">` fields on the page
 
-🔧 Requirements
-Python 3.6+
+- 🚀 **Start Attack**  
+  Launch brute-force/fuzzing with assigned wordlists
 
-PyQt5
+- ⛔ **Stop Attack**  
+  Immediately halt ongoing attack session
 
-PyQtWebEngine
+- 📜 **Attack Log**  
+  Shows attempted payloads and responses
 
-psutil
+- 🔁 **Repeater**  
+  Send custom GET/POST requests with headers and body
 
-requests
+- 🕰️ **Delay Control**  
+  Adjust interval between payloads (1–10 seconds)
 
-Install dependencies using:
+---
 
+### 🖥️ System Monitor
+- Real-time system info:
+  - CPU %
+  - Memory %
+  - GPU Temp (if supported)
+
+---
+
+### 📦 Request Interceptor
+- Logs every HTTP request
+- Saved in: `requests_log.txt`  
+  (Includes full URL and domain)
+
+---
+
+## 🔧 Requirements
+
+- Python 3.6+
+- PyQt5
+- PyQtWebEngine
+- psutil
+- requests
+
+📥 Install with:
+
+```bash
 pip install PyQt5 PyQtWebEngine psutil requests
-🚀 Running the Application
-
-cd bruteforcr-browser,
-cd __pycache__,
+cd bruteforcr-browser
+cd __pycache__
 python3 browser2.0.py
-
-
-📂 Project Structure
-
-pentest_browser.pyc      # Main PyQt5 GUI browser
-requests_log.txt        # Automatically generated log of outgoing HTTP requests
-wordlists/              # (Optional) Directory to store your wordlist text files
 ⚙️ How the Attack Works
-Input Detection:
-It scans the current webpage for <input> elements with a name attribute and supported type.
+Input Detection
+→ Scans for valid <input name="..."> fields
 
-Wordlist Assignment:
-A GUI lets you assign a wordlist file to each detected input field.
+Wordlist Assignment
+→ Assigns a wordlist to each field using the GUI
 
-Payload Execution:
-The tool auto-fills the fields with values from the wordlist(s) and submits the form with delay control.
+Payload Execution
+→ Fills inputs and submits the form automatically
 
-Logging:
-Every attempted payload is shown in the attack log panel.
+Logging
+→ All attempts are shown in a real-time log
 
 🛡️ Legal Disclaimer
-This tool is provided for educational and ethical penetration testing purposes only.
-⚠️ Do NOT use this tool on websites or systems without proper authorization. Unauthorized use is illegal.
+This tool is for educational and authorized ethical hacking only.
 
+⚠️ Do NOT use on any website or system without explicit permission.
+🚫 Unauthorized use is illegal and punishable by law.
 
-
-#browser
-#
-#
-#
-#
+#pentestbrowser #ethicalhacking #python #pyqt5 #fuzzing #bruteforce #infosec #websecurity #hackerstyle #cybersecurity #opensource #bugbounty #repeater #attacktools #webfuzzing #sheikhajimbinnazir #ajim #akash #islamiccybernetwork #cyber #islamic
